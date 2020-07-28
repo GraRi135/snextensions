@@ -1,3 +1,5 @@
+This fork serves me to selfhost the project myself.
+
 # snextensions
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/53e5f0b7-02c9-400d-8590-159860892cdc/deploy-status)](https://app.netlify.com/sites/snext/deploys)
